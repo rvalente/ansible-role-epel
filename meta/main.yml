@@ -1,0 +1,29 @@
+galaxy_info:
+  author: Ronald Valente
+  description: Install Epel Release Repo
+  issue_tracker_url: https://github.com/rvalente/ansible-role-epel/issues
+  license: MIT
+  min_ansible_version: 2.2
+  platforms:
+  - name: EL
+    versions:
+    - 7
+  #- name: Ubuntu
+  #  versions:
+  #  - xenial
+  #- name: Debian
+  #  versions:
+  #  - jessie
+  #- name: Alpine
+  #  versions:
+  #  - all
+  #  - any
+  #- name: Fedora
+  #  versions:
+  #  - 25
+  #- name: FreeBSD
+  #  versions:
+  #  - 11.0
+  galaxy_tags:
+    - epel
+dependencies: []
